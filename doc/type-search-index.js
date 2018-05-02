@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"allegroTaskClient","l":"Main"},{"p":"allegroTaskClient","l":"Operations"}]
